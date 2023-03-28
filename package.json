@@ -26,11 +26,11 @@
     "url": "https://github.com/ntdaley/gulp-transform-js-ast.git"
   },
   "dependencies": {
-    "ast-types": "^0.6.6",
+    "ast-types": "0.9.6",
     "convert-source-map": "^0.4.1",
     "gulp-util": "^3.0.1",
     "multi-stage-sourcemap": "^0.2.1",
-    "recast": "^0.9.6",
+    "recast": "0.18.1",
     "through2": "^0.6.3",
     "vinyl-sourcemaps-apply": "^0.1.4"
   },
